@@ -14,8 +14,9 @@ I'm going to make music I'm learning to play the guitar for a while then I'll go
 And also I want to recommend you to join the discord server of my channel where the Founder: https://discord.gg/SF3KBnXFVf Thank you for your attention, all my social networks will be below!.
 
 My Sosial Network:
-<a href="https://github.com/cousyes">Network</a>
-<a href="https://www.instagram.com/cousyes/">Network</a>
-<a href="https://www.reddit.com/user/Dodgersyes_666">Network</a>
-<a href="https://open.spotify.com/user/31y7d5yswpaxbw2apaymgcxmzh5u">Network</a>
-<a href="  https://twitter.com/cousyes">Network</a>
+My Social Network:
+<a href="https://github.com/cousyes">github</a>
+<a href="https://www.instagram.com/cousyes/">instagram</a>
+<a href="https://www.reddit.com/user/Dodgersyes_666">reddit</a>
+<a href="https://open.spotify.com/user/31y7d5yswpaxbw2apaymgcxmzh5u">spotify</a>
+<a href="https://twitter.com/cousyes">twitter</a>
