@@ -1,7 +1,7 @@
 # couseyes
 My github account config
 
-Hello, there I am Max or Cosuse on internet or like Astrid. i'm a 16 year's old, wroks out on way Eessa Exlusive Records like co-founder & ceo, and also to one of Founder, my dereamer to visit London, UK! also to Japanse country.
+Hello, there I am Max or Couse on internet or like Astrid. i'm a 16 year's old, wroks out on way Eessa Exlusive Records like co-founder & ceo, and also to one of Founder, my dereamer to visit London, UK! also to Japanse country.
 I am beginners to: Front-end & Backend Engineeers also to become, Software Enigneer & Backend. Thanks to see my repozetory.
 
 
