@@ -5,8 +5,7 @@ Hello, there I am Max or Couse on internet or like Astrid. i'm a 16 year's old, 
 I am beginners to: Front-end & Backend Engineeers also to become, Software Enigneer & Backend. Thanks to see my repozetory.
 
 
-My Sosial Network:
-My Social Network:
+My our social network:
 <a href="https://github.com/cousyes">github</a>
 <a href="https://www.instagram.com/cousyes/">instagram</a>
 <a href="https://open.spotify.com/user/31y7d5yswpaxbw2apaymgcxmzh5u">spotify</a>
